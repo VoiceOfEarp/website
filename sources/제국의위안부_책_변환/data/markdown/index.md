@@ -1,3 +1,5 @@
+![제국의 위안부 표지](ogp.png)
+
 # 제국의 위안부
 
 ## [제 2판 서문 - 식민지의 아이러니](0-1-1-식민지의-아이러니.html)
@@ -130,3 +132,7 @@
   - [5. 말할 수 없는 구조를 넘어](6-1-5-말할수없는-구조를-넘어.html)
 
 ### 부록2: [일본의 역사가들을 지지하는 성명](6-2-1-일본의-역사가들을-지지하는-성명.html)
+
+---------
+
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fvoiceofearp.kr%2Fbooks%2F%25EC%25A0%259C%25EA%25B5%25AD%25EC%259D%2598%25EC%259C%2584%25EC%2595%2588%25EB%25B6%2580%2F&width=450&layout=standard&action=like&size=large&show_faces=true&share=true&height=80&appId=231635957386954" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
