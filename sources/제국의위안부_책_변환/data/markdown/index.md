@@ -135,4 +135,10 @@
 
 ---------
 
+앗!🤦 혹시 오타를 보셨나요?
+이 문서를 좀 더 보기 좋도록 만들어줄 `기여자🤗`가 되어주시겠어요?
+[GitHub에서 문서 수정하기](https://github.com/VoiceOfEarp/books)
+
+---------
+
 <iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fvoiceofearp.kr%2Fbooks%2F%25EC%25A0%259C%25EA%25B5%25AD%25EC%259D%2598%25EC%259C%2584%25EC%2595%2588%25EB%25B6%2580%2F&width=450&layout=standard&action=like&size=large&show_faces=true&share=true&height=80&appId=231635957386954" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
