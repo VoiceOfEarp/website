@@ -141,7 +141,7 @@
 
 이 문서를 좀 더 보기 좋도록 만들어줄 `기여자🤗`가 되어주시겠어요?
 
-[GitHub에서 문서 수정하기](https://github.com/VoiceOfEarp/books)
+[GitHub에서 문서 수정하기👀](https://github.com/VoiceOfEarp/books)
 
 ---------
 
