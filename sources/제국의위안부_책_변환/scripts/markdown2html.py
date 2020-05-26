@@ -7,11 +7,11 @@ app = flask.Flask('my app')
 dir_path = 'data/markdown/'
 
 def create_home_address():
-    return '<a href="/books/제국의위안부/">목록으로</a>'
+    return '<a href="/website/books/제국의위안부/">목록으로</a>'
 def create_prev_address(file_path, file_name):
-    return '<a href="/books/제국의위안부/{0}">이전으로 - {1}</a>'.format(file_path[:-2]+'html', file_name[6:-3].replace('-', ' '))
+    return '<a href="/website/books/제국의위안부/{0}">이전으로 - {1}</a>'.format(file_path[:-2]+'html', file_name[6:-3].replace('-', ' '))
 def create_next_address(file_path, file_name):
-    return '<a href="/books/제국의위안부/{0}">다음으로 - {1}</a>'.format(file_path[:-2]+'html', file_name[6:-3].replace('-', ' '))
+    return '<a href="/website/books/제국의위안부/{0}">다음으로 - {1}</a>'.format(file_path[:-2]+'html', file_name[6:-3].replace('-', ' '))
 
 if __name__ == '__main__':
     file_names = os.listdir(dir_path)
