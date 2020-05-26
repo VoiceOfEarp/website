@@ -145,11 +145,8 @@
 
 ---------
 
-앗!🤦 혹시 오타를 보셨나요?
-
-이 문서를 좀 더 보기 좋도록 만들어줄 `기여자`가 되어주시겠어요?
-
-[GitHub에서 문서 수정하기](https://github.com/VoiceOfEarp/books)
+- 이 서비스는 [github](https://github.com/VoiceOfEarp/books)에 호스팅되어 있습니다.
+- 수정이나 문의는 <a href="mailto:voiceearp@gmail.com">voiceearp@gmail.com</a>으로 보내주세요.
 
 ---------
 
